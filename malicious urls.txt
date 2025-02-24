@@ -1,0 +1,17 @@
+malicious urls
+
+chrome://inducebrowsercrashforrealz/
+https://www.youdontknowwhoiam.org/
+https://www.youareanidiot.org/
+https://www.youareanidiot.cc/
+https://www.hurr-durr.org/
+https://www.hurr-durr.cc/
+
+notes
+
+chrome://inducebrowsercrashforrealz/ crashes chromebooks
+https://www.youdontknowwhoiam.org/ and https://www.youareanidiot.org/ and https://www.hurr-durr.org/ do not work and are no longer malicious
+
+why i made this and who did it
+
+BruceyBro128 made this document and i did this so you know what not to do
